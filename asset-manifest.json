@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/video-react.github.io/static/css/main.0d231e58.css",
+    "main.js": "/video-react.github.io/static/js/main.0a9d4f51.js",
+    "static/js/787.889dc4fb.chunk.js": "/video-react.github.io/static/js/787.889dc4fb.chunk.js",
+    "index.html": "/video-react.github.io/index.html",
+    "main.0d231e58.css.map": "/video-react.github.io/static/css/main.0d231e58.css.map",
+    "main.0a9d4f51.js.map": "/video-react.github.io/static/js/main.0a9d4f51.js.map",
+    "787.889dc4fb.chunk.js.map": "/video-react.github.io/static/js/787.889dc4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d231e58.css",
+    "static/js/main.0a9d4f51.js"
+  ]
+}
